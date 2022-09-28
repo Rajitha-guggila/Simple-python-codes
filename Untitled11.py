@@ -4,7 +4,7 @@
 # In[1]:
 
 
-names=["rajitha","geetha","preethi"]
+names=["rajitha","geetha","preethi","meghana"]
 for x in names:
  print(x)
 
